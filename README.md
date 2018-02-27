@@ -1,67 +1,71 @@
-![Build Status](https://gitlab.com/pages/plain-html/badges/master/build.svg)
-
----
-
-Example plain HTML site using GitLab Pages.
-
-Learn more about GitLab Pages at https://pages.gitlab.io and the official
-documentation https://docs.gitlab.com/ce/user/project/pages/.
-
----
-
+Awesome ServiceNow [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [GitLab CI](#gitlab-ci)
-- [GitLab User or Group Pages](#gitlab-user-or-group-pages)
-- [Did you fork this project?](#did-you-fork-this-project)
-- [Troubleshooting](#troubleshooting)
+- [Git Shares](#git-shares)
+- [Share](#share)
+- [Tools](#tools)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## GitLab CI
+# Git Shares
+- [Platform-experience / Service Portal Widget Library](https://github.com/platform-experience/serviceportal-widget-library)
+- [Platform-experience / Service Portal Component Library](https://github.com/platform-experience/serviceportal-components)
 
-This project's static Pages are built by [GitLab CI][ci], following the steps
-defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
+- [Xplore](https://github.com/thewhitespace/Xplore)
+- [UI16 Developer Patch](https://github.com/thewhitespace/UI16-Developer-Patch)
 
-```
-image: alpine:latest
+# Documentation
+- [Unofficial Service Portal Docs](https://github.com/newrocketinc/service-portal-docs)
+- [Platform-experience / Service Portal Best Practice](https://github.com/platform-experience/serviceportal-best-practice)
+- [Meetup Decks with labs](https://github.com/sndevs/meetups)
+- [Unofficial Serivce Now Docs](https://github.com/mark4carter/ServiceNow-Docs)
+- [Script Documenter](https://github.com/jmbauguess/ServiceNowScriptDocumenter)
 
-pages:
-  stage: deploy
-  script:
-  - echo 'Nothing to do...'
-  artifacts:
-    paths:
-    - public
-  only:
-  - master
-```
+# Apps
+- [CryptoJS Scoped App](https://github.com/cjnanda/snc-cryptojs)
+- [MeetNow Global App](https://github.com/AFCJamie/MeetNow)
+- [Applicant Tracker Scoped App](https://github.com/tdeniston/interviewnow)
+- [ServicenowHelper to help track logs](https://github.com/OlivierBoucher/ServiceNowHelper)
 
-The above example expects to put all your HTML files in the `public/` directory.
+# Bots
+- [Bot Builder/ APIAI Bot](https://github.com/srinivasanV2-hexaware/servicenow)
+- [Bot Builder/ Azure](https://github.com/LeonBirk/ServiceNowChatbot)
+- [Spark Botkit](https://github.com/asynchrony-ringo/spark-botkit-servicenow)
+- [Slack Hackathon 2016 Slack Bot](https://github.com/tonybaloney/ServiceNowHackathon2016)
+- [Slack Slackbot](https://github.com/michaeljmatthews22/servicenow-slackbot)
+- [Slack bot-example](https://github.com/johnagan/servicenow-bot-example)
+- [Hubot plugin](https://github.com/manahl/hubot-servicenow-tickets)
 
-## GitLab User or Group Pages
 
-To use this project as your user/group website, you will need one additional
-step: just rename your project to `namespace.gitlab.io`, where `namespace` is
-your `username` or `groupname`. This can be done by navigating to your
-project's **Settings**.
+# Libraries/Integrations
+- [Powershell Cmdlets for Servicenow](https://github.com/Sam-Martin/servicenow-powershell)
+- [Powershell Wrapper](https://github.com/jonnyt/posh-servicenow)
+- [Python Library to interact with Servicenow](https://github.com/rbw0/pysnow)
+- [sn-node Nodejs](https://github.com/salcosta/sn-node)
+- [servicenow-rest Nodejs](https://github.com/abeyahmad/servicenow-rest)
+- [node-servicenow Nodejs](https://github.com/Echo3ToEcho7/node-servicenow)
+- [Lodash style library](https://github.com/tltoulson/Glider.js)
+- [C# Library for Servicenow](https://github.com/merccat/ServiceNowRESTClient)
+- [Command Line Interface](https://github.com/salcosta/sncli)
+- [Arduino Integration](https://github.com/chengdu28/ServiceNow-Arduino-Integration)
+- [Echo Integration](https://github.com/JonCraneNOW/SN_Echo_Integration)
+- [Go Client for Servicenow](https://github.com/andrewstuart/servicenow)
 
-Read more about [user/group Pages][userpages] and [project Pages][projpages].
+# Tools
 
-## Did you fork this project?
+- [Filesync](https://github.com/dynamicdan/sn-filesync)
+- [Codesync](https://github.com/cern-snow/codesync)
+- [Now-sync](https://github.com/theconnectiv/now-sync)
+- [Jetbrains Servicenow Sync](https://github.com/0x111/servicenow-plugin)
+- [Visual Studio Code Servicenow Sync](https://github.com/salcosta/vsc-servicenow-sync)
+- [Atom Servicenow Sync](https://github.com/thtliife/servicenow-sync)
+- [Sublime Servicenow Sync](https://github.com/salcosta/servicenow-sync)
+- [Sublime Servicenow autocompleter](https://github.com/dancigrang/servicenow-autocomplete)
 
-If you forked this project for your own use, please go to your project's
-**Settings** and remove the forking relationship, which won't be necessary
-unless you want to contribute back to the upstream project.
 
-## Troubleshooting
+## Bootstrap
 
-1. CSS is missing! That means that you have wrongly set up the CSS URL in your
-   HTML files. Have a look at the [index.html] for an example.
-
-[ci]: https://about.gitlab.com/gitlab-ci/
-[index.html]: https://gitlab.com/pages/plain-html/blob/master/public/index.html
-[userpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#user-or-group-pages
-[projpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#project-pages
+- https://hackerthemes.com/bootstrap-cheatsheet
+- http://bootsnipp.com/forms
