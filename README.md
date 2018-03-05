@@ -4,8 +4,12 @@ Awesome ServiceNow [![Awesome](https://awesome.re/badge.svg)](https://awesome.re
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Git Shares](#git-shares)
-- [Share](#share)
+- [Documentation](#documentation)
+- [Apps](#apps)
+- [Bots](#bots)
+- [Libraries/Integrations](#librariesintegrations)
 - [Tools](#tools)
+  - [Bootstrap](#bootstrap)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
