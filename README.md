@@ -33,6 +33,7 @@
 - [MeetNow Global App](https://github.com/AFCJamie/MeetNow)
 - [Applicant Tracker Scoped App](https://github.com/tdeniston/interviewnow)
 - [ServicenowHelper to help track logs](https://github.com/OlivierBoucher/ServiceNowHelper)
+- [Code Search App](https://gitlab.com/jacebenson/servicenow-codesearch)
 
 # Bots
 - [Bot Builder/ APIAI Bot](https://github.com/srinivasanV2-hexaware/servicenow)
