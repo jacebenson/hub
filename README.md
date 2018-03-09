@@ -69,6 +69,7 @@
 - [Atom Servicenow Sync](https://github.com/thtliife/servicenow-sync)
 - [Sublime Servicenow Sync](https://github.com/salcosta/servicenow-sync)
 - [Sublime Servicenow autocompleter](https://github.com/dancigrang/servicenow-autocomplete)
+- [Docker Midserver](https://hub.docker.com/r/toolsproservia/sn-mid-server/)
 
 
 ## Bootstrap
