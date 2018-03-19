@@ -17,16 +17,18 @@
 # Git Shares
 - [Platform-experience / Service Portal Widget Library](https://github.com/platform-experience/serviceportal-widget-library)
 - [Platform-experience / Service Portal Component Library](https://github.com/platform-experience/serviceportal-components)
-
 - [Xplore](https://github.com/thewhitespace/Xplore)
 - [UI16 Developer Patch](https://github.com/thewhitespace/UI16-Developer-Patch)
 
 # Documentation
 - [Unofficial Service Portal Docs](https://github.com/newrocketinc/service-portal-docs)
 - [Platform-experience / Service Portal Best Practice](https://github.com/platform-experience/serviceportal-best-practice)
-- [Meetup Decks with labs](https://github.com/sndevs/meetups)
+- [Meetup Decks with labs](https://sndevs.github.io/meetups/)
 - [Unofficial Serivce Now Docs](https://github.com/mark4carter/ServiceNow-Docs)
 - [Script Documenter](https://github.com/jmbauguess/ServiceNowScriptDocumenter)
+
+## Community
+- [Offical Developer Meetups](https://www.meetup.com/pro/servicenowdevprogram/)
 
 # Apps
 - [CryptoJS Scoped App](https://github.com/cjnanda/snc-cryptojs)
