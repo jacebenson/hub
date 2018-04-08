@@ -17,7 +17,7 @@ $(function () {
         }
     }
     loadReadme();
-    if (local) {
+    if (local()) {
         console.log('local');
         setInterval(function(){loadReadme();}, 5000);
     }
