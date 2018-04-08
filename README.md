@@ -1,43 +1,82 @@
-# Awesome ServiceNow 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+# Servicenow
 
-- [Git Shares](#git-shares)
-- [Documentation](#documentation)
-- [Apps](#apps)
-- [Bots](#bots)
-- [Libraries/Integrations](#librariesintegrations)
-- [Tools](#tools)
-  - [Bootstrap](#bootstrap)
+## Apps
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+### Global
 
-# Git Shares
-- [Platform-experience / Service Portal Widget Library](https://github.com/platform-experience/serviceportal-widget-library)
-- [Platform-experience / Service Portal Component Library](https://github.com/platform-experience/serviceportal-components)
+- [MeetNow Global App](https://github.com/AFCJamie/MeetNow)
 - [Xplore](https://github.com/thewhitespace/Xplore)
 - [UI16 Developer Patch](https://github.com/thewhitespace/UI16-Developer-Patch)
 
-# Documentation
-- [Unofficial Service Portal Docs](https://github.com/newrocketinc/service-portal-docs)
-- [Platform-experience / Service Portal Best Practice](https://github.com/platform-experience/serviceportal-best-practice)
-- [Meetup Decks with labs](https://sndevs.github.io/meetups/)
-- [Unofficial Serivce Now Docs](https://github.com/mark4carter/ServiceNow-Docs)
-- [Script Documenter](https://github.com/jmbauguess/ServiceNowScriptDocumenter)
+### Scoped
 
-## Community
-- [Offical Developer Meetups](https://www.meetup.com/pro/servicenowdevprogram/)
-
-# Apps
+- [Store Apps](https://store.servicenow.com/sn_appstore_store.do#!/store/search?apptype=nonintegrations&orderby=rating) Some cost $
+- [Share Apps](https://share.servicenow.com/app.do#/category/custom_app?startRow=0&sort_parameter=-sys_created_on)
 - [CryptoJS Scoped App](https://github.com/cjnanda/snc-cryptojs)
-- [MeetNow Global App](https://github.com/AFCJamie/MeetNow)
 - [Applicant Tracker Scoped App](https://github.com/tdeniston/interviewnow)
-- [ServicenowHelper to help track logs](https://github.com/OlivierBoucher/ServiceNowHelper)
 - [Code Search App](https://gitlab.com/jacebenson/servicenow-codesearch)
 
-# Bots
+## Community
+
+- [Community](https://community.servicenow.com)
+- [Slack](https://sndevs.slack.com) Invite URL [http://invite.sndevs.com/](http://invite.sndevs.com/)
+- [Offical Developer Meetups](https://www.meetup.com/pro/servicenowdevprogram/)
+- [Reddit](https://reddit.com/r/servicenow)
+- [Stackoverflow](https://stackoverflow.com/questions/tagged/servicenow)
+
+### Blogs
+
+- [Developer Blog](https://developer.servicenow.com/blog.do)
+- [Community Blogs](https://community.servicenow.com/community?id=community_forum&sys_id=a6299a2ddbd897c068c1fb651f961926)
+- [CodeCreative](https://codecreative.io/)
+- [SN Pro Tips](https://snprotips.com/)
+- [Servicenow Advanced User Group SNAUG](http://snaug.com)
+- [SNGuru](https://www.servicenowguru.com/)
+- [Servicenow Elite](http://www.servicenowelite.com/blog)
+- [Servicenow Gems](https://servicenowgems.com/)
+- [Servicenow Implementation Blog](https://servicenow.implementation.blog/)
+- [SN Commander](http://sncommander.com/)
+- [blog.jacebenson.com](https://blog.jacebenson.com/)
+- [Unofficial Serivce Now Docs](https://github.com/mark4carter/ServiceNow-Docs)
+
+## Documentation
+
+- [docs.servicenow.com](https://docs.servicenow.com/bundle/jakarta-application-development/page/build/applications/concept/api-javascript.html)
+- [developer.servicenow.com](https://developer.servicenow.com/app.do#!/api_doc)
+- [Style Guide](http://styleguide.servicenow.com/)
+- [Heisenberg Style Guide with code](https://hi.service-now.com/styles/heisenberg/styleguide/docs/index.html)
+- [Retina Icons](https://hi.service-now.com/styles/retina_icons/retina_icons.html)
+
+### Labs / Decks
+
+- [Meetup Decks with labs](https://sndevs.github.io/meetups/)
+- [On Demand Library(Past Knowledge Decks)](https://community.servicenow.com/community?id=community_odl)
+
+### Bootstrap
+
+- [Bootstrap v3.3](https://getbootstrap.com/docs/3.3/components/)
+- [Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet)
+- [Form Builder](http://bootsnipp.com/forms)
+
+### Service Portal
+
+- [Angular 1.5.x](https://code.angularjs.org/1.5.3/docs/api)
+- [UI Bootstrap](https://angular-ui.github.io/bootstrap/)
+- [Unofficial Service Portal Docs](https://github.com/newrocketinc/service-portal-docs)
+- [Platform-experience / Service Portal Best Practice](https://github.com/platform-experience/serviceportal-best-practice)
+- [Platform-experience / Service Portal Widget Library](https://github.com/platform-experience/serviceportal-widget-library)
+- [Platform-experience / Service Portal Component Library](https://github.com/platform-experience/serviceportal-components)
+
+## Other
+
+### Integrations
+
+- [Store Integrations](https://store.servicenow.com/sn_appstore_store.do#!/store/search?apptype=integrations&orderby=rating)
+- [Arduino Integration](https://github.com/chengdu28/ServiceNow-Arduino-Integration)
+- [Echo Integration](https://github.com/JonCraneNOW/SN_Echo_Integration)
+
+### Bots
+
 - [Bot Builder/ APIAI Bot](https://github.com/srinivasanV2-hexaware/servicenow)
 - [Bot Builder/ Azure](https://github.com/LeonBirk/ServiceNowChatbot)
 - [Spark Botkit](https://github.com/asynchrony-ringo/spark-botkit-servicenow)
@@ -46,22 +85,28 @@
 - [Slack bot-example](https://github.com/johnagan/servicenow-bot-example)
 - [Hubot plugin](https://github.com/manahl/hubot-servicenow-tickets)
 
+### NodeJS Packages
 
-# Libraries/Integrations
-- [Powershell Cmdlets for Servicenow](https://github.com/Sam-Martin/servicenow-powershell)
-- [Powershell Wrapper](https://github.com/jonnyt/posh-servicenow)
-- [Python Library to interact with Servicenow](https://github.com/rbw0/pysnow)
 - [sn-node Nodejs](https://github.com/salcosta/sn-node)
 - [servicenow-rest Nodejs](https://github.com/abeyahmad/servicenow-rest)
 - [node-servicenow Nodejs](https://github.com/Echo3ToEcho7/node-servicenow)
-- [Lodash style library](https://github.com/tltoulson/Glider.js)
-- [C# Library for Servicenow](https://github.com/merccat/ServiceNowRESTClient)
-- [Command Line Interface](https://github.com/salcosta/sncli)
-- [Arduino Integration](https://github.com/chengdu28/ServiceNow-Arduino-Integration)
-- [Echo Integration](https://github.com/JonCraneNOW/SN_Echo_Integration)
-- [Go Client for Servicenow](https://github.com/andrewstuart/servicenow)
 
-# Tools
+### Powershell
+
+- [Powershell Cmdlets for Servicenow](https://github.com/Sam-Martin/servicenow-powershell)
+- [Powershell Wrapper](https://github.com/jonnyt/posh-servicenow)
+
+### Libraries
+
+- [Python Library to interact with Servicenow](https://github.com/rbw0/pysnow)
+- [C# Library for Servicenow](https://github.com/merccat/ServiceNowRESTClient)
+- [Go Client for Servicenow](https://github.com/andrewstuart/servicenow)
+- [Command Line Interface](https://github.com/salcosta/sncli)
+- [Lodash style library](https://github.com/tltoulson/Glider.js)
+
+## Tools
+
+### File Syncr's
 
 - [Filesync](https://github.com/dynamicdan/sn-filesync)
 - [Codesync](https://github.com/cern-snow/codesync)
@@ -70,11 +115,11 @@
 - [Visual Studio Code Servicenow Sync](https://github.com/salcosta/vsc-servicenow-sync)
 - [Atom Servicenow Sync](https://github.com/thtliife/servicenow-sync)
 - [Sublime Servicenow Sync](https://github.com/salcosta/servicenow-sync)
+
+### Miscellaneous
+
 - [Sublime Servicenow autocompleter](https://github.com/dancigrang/servicenow-autocomplete)
 - [Docker Midserver](https://hub.docker.com/r/toolsproservia/sn-mid-server/)
-
-
-## Bootstrap
-
-- https://hackerthemes.com/bootstrap-cheatsheet
-- http://bootsnipp.com/forms
+- [ServicenowHelper to help track logs](https://github.com/OlivierBoucher/ServiceNowHelper)
+- [Script Documenter](https://github.com/jmbauguess/ServiceNowScriptDocumenter)
+- [SNGuru Integration Utilies](http://www.fryo.com/)
