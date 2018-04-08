@@ -1,3 +1,5 @@
+# ignore if file is placed in public
+/public/README.md 
 
 # Created by https://www.gitignore.io/api/node
 
