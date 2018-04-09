@@ -9,7 +9,8 @@
 - [ABC - Auto Backup Configuration](https://share.servicenow.com/app.do#/detailV2/4526d277dbcec3009a80aed15b96196b/overview) - XML - Emails update sets daily so they are not lost.
 - [Google Translate](https://github.com/MBahrSNC/snGoogleTranslate) - XML - Just one UI Script and requires translate.google.com to be configured as listed in the README.md [Screenshot](./img/screenshots/google-translate.PNG)
 - [My Approvals UI](https://share.servicenow.com/app.do#/detailV2/268d9f58dbf09f001afe13141b9619ab/overview) - XML - Just a UI page to allow comments and easy approval/rejection [Screenshot](./img/screenshots/my-approvals-ui.PNG)
-- [Module Count Management](https://share.servicenow.com/app.do#/detailV2/6f7fabaedbf343001afe13141b961969/overview) - XML - This is a table and UI Script to show counts on the default list [Screenshot](./img/screenshots/module-counts.PNG)
+- [Module Count Management](https://share.servicenow.com/app.do#/detailV2/6f7fabaedbf343001afe13141b961969/overview) - XML - This is a table and UI Script to show counts on the default list. To get it to work, you may need to clear your cache of your browser. [Screenshot](./img/screenshots/module-counts.PNG)
+- [Expense Management](https://share.servicenow.com/app.do#/detailV2/c14ec9ba136c47001d2adbf18144b0a0/details) - XML - This is a full fledged Application [PDF for more info](./img/screenshots/expense-mgmt-v2.pdf)
 
 ### Scoped
 
