@@ -133,6 +133,7 @@
 - [Visual Studio Code Servicenow Sync](https://github.com/salcosta/vsc-servicenow-sync)
 - [Atom Servicenow Sync](https://github.com/thtliife/servicenow-sync)
 - [Sublime Servicenow Sync](https://github.com/salcosta/servicenow-sync)
+- [UXsyncNow](https://github.com/ReedOwens/UXsyncNow)
 
 ### Miscellaneous
 
