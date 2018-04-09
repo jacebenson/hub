@@ -4,23 +4,22 @@
 
 ### Global
 
-- [Xplore](https://github.com/thewhitespace/Xplore)
-- [UI16 Developer Patch](https://github.com/thewhitespace/UI16-Developer-Patch)
-- [ABC - Auto Backup Configuration](https://share.servicenow.com/app.do#/detailV2/4526d277dbcec3009a80aed15b96196b/overview) - Emails update sets daily so they are not lost.
-
-- [Google Translate](https://github.com/MBahrSNC/snGoogleTranslate) - Just one UI Script and requires translate.google.com to be configured as listed in the README.md [Screenshot](./img/screenshots/google-translate.PNG)
-
-- [My Approvals UI](https://share.servicenow.com/app.do#/detailV2/268d9f58dbf09f001afe13141b9619ab/overview) - Just a UI page to allow comments and easy approval/rejection [Screenshot](./img/screenshots/my-approvals-ui.PNG)
+- [Xplore](https://github.com/thewhitespace/Xplore) - XML - Great tool for debugging, writing and exploring scripts.
+- [UI16 Developer Patch](https://github.com/thewhitespace/UI16-Developer-Patch) - XML - Enhancements around menus in tool.
+- [ABC - Auto Backup Configuration](https://share.servicenow.com/app.do#/detailV2/4526d277dbcec3009a80aed15b96196b/overview) - XML - Emails update sets daily so they are not lost.
+- [Google Translate](https://github.com/MBahrSNC/snGoogleTranslate) - XML - Just one UI Script and requires translate.google.com to be configured as listed in the README.md [Screenshot](./img/screenshots/google-translate.PNG)
+- [My Approvals UI](https://share.servicenow.com/app.do#/detailV2/268d9f58dbf09f001afe13141b9619ab/overview) - XML - Just a UI page to allow comments and easy approval/rejection [Screenshot](./img/screenshots/my-approvals-ui.PNG)
+- [Module Count Management](https://share.servicenow.com/app.do#/detailV2/6f7fabaedbf343001afe13141b961969/overview) - XML - This is a table and UI Script to show counts on the default list [Screenshot](./img/screenshots/module-counts.PNG)
 
 ### Scoped
 
 - [Store Apps](https://store.servicenow.com/sn_appstore_store.do#!/store/search?apptype=nonintegrations&orderby=rating) Some cost $
 - [Share Apps](https://share.servicenow.com/app.do#/category/custom_app?startRow=0&sort_parameter=-sys_created_on&filter=)
-- [MeetNow Global App](https://github.com/AFCJamie/MeetNow) Install from XML - Has Maps, Rooms, Clients, Interactions, but some parts don't work.
-- [HMAC Encoding (CryptoJS) Scoped App](https://github.com/cjnanda/snc-cryptojs) Install from Source Control - Just a few Script includes.
-- [InterviewNow (Applicant Tracker) Scoped App](https://github.com/tdeniston/interviewnow) Install from Source Control
-- [Code Search App](https://gitlab.com/jacebenson/servicenow-codesearch) Install from Source Control
-- [Amazon Signature v4 POC](https://share.servicenow.com/app.do#/detailV2/6e87c240db34360010c37ecfbf961979/overview) Install from XML - Just a few Script includes.
+- [MeetNow Global App](https://github.com/AFCJamie/MeetNow) - XML - Has Maps, Rooms, Clients, Interactions, but some parts don't work.
+- [HMAC Encoding (CryptoJS) Scoped App](https://github.com/cjnanda/snc-cryptojs) - GIT - Just a few Script includes.
+- [InterviewNow (Applicant Tracker) Scoped App](https://github.com/tdeniston/interviewnow) - GIT - Full fledged app
+- [Code Search App](https://gitlab.com/jacebenson/servicenow-codesearch) - GIT - Single Portal using `/code`
+- [Amazon Signature v4 POC](https://share.servicenow.com/app.do#/detailV2/6e87c240db34360010c37ecfbf961979/overview) - XML - Just a few Script includes.
 
 ## Community
 
