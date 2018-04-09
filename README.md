@@ -16,6 +16,7 @@
 - [Resvervation Bookings System 2.3](https://share.servicenow.com/app.do#/detailV2/27c2d872db274b00c4f256594b96191b/overview) - XML
 - [Simple Seperation](https://share.servicenow.com/app.do#/detailV2/d07c5a89e17bc2007c390227ffa71eb5/overview) - XML - Before Queries made easy
 - [ITIL User Activity Report](https://share.servicenow.com/app.do#/detailV2/cd65e03d2b542100bc401d2be8da1500/overview) - XML - Custom Report on when users have loggedin.  Gives insight to users who may not need roles.
+- [Instance Remote Sync 2](https://share.servicenow.com/app.do#/detailV2/97ea0efc1397420057ce58222244b097/overview) - XML
 
 ### Scoped
 
