@@ -22,6 +22,7 @@
 - [InterviewNow (Applicant Tracker) Scoped App](https://github.com/tdeniston/interviewnow) - GIT - Full fledged app
 - [Code Search App](https://gitlab.com/jacebenson/servicenow-codesearch) - GIT - Single Portal using `/code`
 - [Amazon Signature v4 POC](https://share.servicenow.com/app.do#/detailV2/6e87c240db34360010c37ecfbf961979/overview) - XML - Just a few Script includes.
+- [LUDI - Voice Controlled](https://github.com/CloudPires/LUDI) - GIT - Voice commands can be fun. K17 winner
 
 ## Community
 
