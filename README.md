@@ -14,6 +14,8 @@
 - [Absence Management](https://share.servicenow.com/app.do#/detailV2/61eacee713af72001d2adbf18144b073/overview) - XML - THis is a full fledged Application [PDF for more info](./img/screenshots/absence-mgmt-v1.0.1.pdf)
 - [Mimeo (Copying global tables to scoped ones)](https://share.servicenow.com/app.do#/detailV2/2ca05a5613c4b6000de935528144b072/details) - XML
 - [Resvervation Bookings System 2.3](https://share.servicenow.com/app.do#/detailV2/27c2d872db274b00c4f256594b96191b/overview) - XML
+- [Simple Seperation](https://share.servicenow.com/app.do#/detailV2/d07c5a89e17bc2007c390227ffa71eb5/overview) - XML - Before Queries made easy
+- [ITIL User Activity Report](https://share.servicenow.com/app.do#/detailV2/cd65e03d2b542100bc401d2be8da1500/overview) - XML - Custom Report on when users have loggedin.  Gives insight to users who may not need roles.
 
 ### Scoped
 
