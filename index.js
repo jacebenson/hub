@@ -9,18 +9,24 @@ var file = "README.md";
 var rootReadme = "./" + file;
 var publicReadme = "./public/" + file;
 
+var updatePublicReadme = function(){
+    fs.readFile(rootReadme, function (readError, data) {
+        if (readError) throw readError;
+        console.log("Success Reading");
+        fs.writeFile(publicReadme, data, (err) => {
+            if (err) throw err;
+            console.log(rootReadme + ' modified and now copied to ' + publicReadme);
+        });
+    });
+};
+
+//onload, update readme;
+updatePublicReadme();
 
 fs.watchFile(rootReadme, function (curr, prev) {
     try {
         if (curr.mtime != prev.mtime) {
-            fs.readFile(rootReadme, function (readError, data) {
-                if (readError) throw readError;
-                console.log("Success Reading");
-                fs.writeFile(publicReadme, data, (err) => {
-                    if (err) throw err;
-                    console.log(rootReadme + ' modified and now copied to ' + publicReadme);
-                });
-            });
+            updatePublicReadme();
         }
     } catch (error) {
         console.log(error);
