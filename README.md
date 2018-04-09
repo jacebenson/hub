@@ -18,6 +18,7 @@
 - [ITIL User Activity Report](https://share.servicenow.com/app.do#/detailV2/cd65e03d2b542100bc401d2be8da1500/overview) - XML - Custom Report on when users have loggedin.  Gives insight to users who may not need roles.
 - [Instance Remote Sync 2](https://share.servicenow.com/app.do#/detailV2/97ea0efc1397420057ce58222244b097/overview) - XML
 - [Impersonation Logger](https://share.servicenow.com/app.do#/detailV2/37e7b18b2b88210067b53f4be8da1597/overview) - XML
+- [Inegration Menu Builder](https://share.servicenow.com/app.do#/detailV2/94af5e4c87ae11008bf84b0b0e434d3a/overview) - XML
 
 ### Scoped
 
