@@ -4,17 +4,35 @@
 
 ### Global
 
-- [MeetNow Global App](https://github.com/AFCJamie/MeetNow)
-- [Xplore](https://github.com/thewhitespace/Xplore)
-- [UI16 Developer Patch](https://github.com/thewhitespace/UI16-Developer-Patch)
+- [Xplore](https://github.com/thewhitespace/Xplore) - XML - Great tool for debugging, writing and exploring scripts.
+- [UI16 Developer Patch](https://github.com/thewhitespace/UI16-Developer-Patch) - XML - Enhancements around menus in tool.
+- [ABC - Auto Backup Configuration](https://share.servicenow.com/app.do#/detailV2/4526d277dbcec3009a80aed15b96196b/overview) - XML - Emails update sets daily so they are not lost.
+- [Google Translate](https://github.com/MBahrSNC/snGoogleTranslate) - XML - Just one UI Script and requires translate.google.com to be configured as listed in the README.md [Screenshot](./img/screenshots/google-translate.PNG)
+- [My Approvals UI](https://share.servicenow.com/app.do#/detailV2/268d9f58dbf09f001afe13141b9619ab/overview) - XML - Just a UI page to allow comments and easy approval/rejection [Screenshot](./img/screenshots/my-approvals-ui.PNG)
+- [Module Count Management](https://share.servicenow.com/app.do#/detailV2/6f7fabaedbf343001afe13141b961969/overview) - XML - This is a table and UI Script to show counts on the default list. To get it to work, you may need to clear your cache of your browser. [Screenshot](./img/screenshots/module-counts.PNG)
+- [Expense Management](https://share.servicenow.com/app.do#/detailV2/c14ec9ba136c47001d2adbf18144b0a0/details) - XML - This is a full fledged Application [PDF for more info](./img/screenshots/expense-mgmt-v2.pdf)
+- [Absence Management](https://share.servicenow.com/app.do#/detailV2/61eacee713af72001d2adbf18144b073/overview) - XML - THis is a full fledged Application [PDF for more info](./img/screenshots/absence-mgmt-v1.0.1.pdf)
+- [Mimeo (Copying global tables to scoped ones)](https://share.servicenow.com/app.do#/detailV2/2ca05a5613c4b6000de935528144b072/details) - XML
+- [Resvervation Bookings System 2.3](https://share.servicenow.com/app.do#/detailV2/27c2d872db274b00c4f256594b96191b/overview) - XML
+- [Simple Seperation](https://share.servicenow.com/app.do#/detailV2/d07c5a89e17bc2007c390227ffa71eb5/overview) - XML - Before Queries made easy
+- [ITIL User Activity Report](https://share.servicenow.com/app.do#/detailV2/cd65e03d2b542100bc401d2be8da1500/overview) - XML - Custom Report on when users have loggedin.  Gives insight to users who may not need roles.
+- [Instance Remote Sync 2](https://share.servicenow.com/app.do#/detailV2/97ea0efc1397420057ce58222244b097/overview) - XML
+- [Impersonation Logger](https://share.servicenow.com/app.do#/detailV2/37e7b18b2b88210067b53f4be8da1597/overview) - XML
+- [Inegration Menu Builder](https://share.servicenow.com/app.do#/detailV2/94af5e4c87ae11008bf84b0b0e434d3a/overview) - XML
 
 ### Scoped
 
 - [Store Apps](https://store.servicenow.com/sn_appstore_store.do#!/store/search?apptype=nonintegrations&orderby=rating) Some cost $
-- [Share Apps](https://share.servicenow.com/app.do#/category/custom_app?startRow=0&sort_parameter=-sys_created_on)
-- [CryptoJS Scoped App](https://github.com/cjnanda/snc-cryptojs)
-- [Applicant Tracker Scoped App](https://github.com/tdeniston/interviewnow)
-- [Code Search App](https://gitlab.com/jacebenson/servicenow-codesearch)
+- [Share Apps](https://share.servicenow.com/app.do#/category/custom_app?startRow=0&sort_parameter=-sys_created_on&filter=)
+- [MeetNow Global App](https://github.com/AFCJamie/MeetNow) - XML - Has Maps, Rooms, Clients, Interactions, but some parts don't work.
+- [HMAC Encoding (CryptoJS) Scoped App](https://github.com/cjnanda/snc-cryptojs) - GIT - Just a few Script includes.
+- [InterviewNow (Applicant Tracker) Scoped App](https://github.com/tdeniston/interviewnow) - GIT - Full fledged app
+- [Code Search App](https://gitlab.com/jacebenson/servicenow-codesearch) - GIT - Single Portal using `/code`
+- [Amazon Signature v4 POC](https://share.servicenow.com/app.do#/detailV2/6e87c240db34360010c37ecfbf961979/overview) - XML - Just a few Script includes.
+- [LUDI - Voice Controlled](https://github.com/CloudPires/LUDI) - GIT - Voice commands can be fun. K17 winner
+- [Loaner Request System](https://share.servicenow.com/app.do#/detailV2/ba2adff413d12a000de935528144b01a/overview) - XML
+
+<!--- [Platform Visualization](https://share.servicenow.com/app.do#/detailV2/e7ecd63213a4f200f609b6076144b098/details) Doesnt seem to work-->
 
 ## Community
 
