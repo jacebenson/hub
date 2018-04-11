@@ -169,6 +169,7 @@
 ### K13
 
 - [K13 Portal](https://web.archive.org/web/20130129045528/https://knowledge.service-now.com/k13/)
+- [K13 Agenda](https://knowledgedev.service-now.com/k13/k13_detailed_agenda.do)
 - [K13 Facebook Photos](https://www.facebook.com/pg/servicenow/photos/?tab=album&album_id=10151725761882573)
 - [Blog post on getting the most from Knowledge](https://community.servicenow.com/community?id=community_blog&sys_id=d28da669dbd0dbc01dcaf3231f961987)
 - [Opening Keynote](https://www.youtube.com/watch?v=f2AlQChqGpk)
