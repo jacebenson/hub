@@ -64,6 +64,7 @@
 - [Style Guide](http://styleguide.servicenow.com/)
 - [Heisenberg Style Guide with code](https://hi.service-now.com/styles/heisenberg/styleguide/docs/index.html)
 - [Retina Icons](https://hi.service-now.com/styles/retina_icons/retina_icons.html)
+- [Best Practices](https://developer.servicenow.com/app.do#!/catlist/technical_best_practices?v=kingston)
 
 ### Labs / Decks
 
@@ -133,6 +134,7 @@
 - [Visual Studio Code Servicenow Sync](https://github.com/salcosta/vsc-servicenow-sync)
 - [Atom Servicenow Sync](https://github.com/thtliife/servicenow-sync)
 - [Sublime Servicenow Sync](https://github.com/salcosta/servicenow-sync)
+- [UXsyncNow](https://github.com/ReedOwens/UXsyncNow)
 
 ### Miscellaneous
 
