@@ -64,6 +64,7 @@
 - [Style Guide](http://styleguide.servicenow.com/)
 - [Heisenberg Style Guide with code](https://hi.service-now.com/styles/heisenberg/styleguide/docs/index.html)
 - [Retina Icons](https://hi.service-now.com/styles/retina_icons/retina_icons.html)
+- [Best Practices](https://developer.servicenow.com/app.do#!/catlist/technical_best_practices?v=kingston)
 
 ### Labs / Decks
 
