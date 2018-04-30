@@ -46,6 +46,7 @@
 
 - [Developer Blog](https://developer.servicenow.com/blog.do)
 - [Community Blogs](https://community.servicenow.com/community?id=community_forum&sys_id=a6299a2ddbd897c068c1fb651f961926)
+- [Technow Episode List](https://community.servicenow.com/community?id=community_blog&sys_id=4d6eaeaddbd0dbc01dcaf3231f961964)
 - [CodeCreative](https://codecreative.io/)
 - [SN Pro Tips](https://snprotips.com/)
 - [Servicenow Advanced User Group SNAUG](http://snaug.com)
