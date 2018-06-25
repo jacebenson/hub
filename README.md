@@ -79,6 +79,7 @@
 
 - [Bootstrap v3.3](https://getbootstrap.com/docs/3.3/components/)
 - [Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet)
+- [Class Index](https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/)
 - [Form Builder](http://bootsnipp.com/forms)
 
 ### Service Portal
