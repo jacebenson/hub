@@ -84,9 +84,13 @@
 
 ### Service Portal
 
-- [Angular 1.5.x](https://code.angularjs.org/1.5.3/docs/api)
+- [Documentation Angular 1.5.x](https://code.angularjs.org/1.5.3/docs/api)
 - [UI Bootstrap](https://angular-ui.github.io/bootstrap/)
 - [Unofficial Service Portal Docs](https://github.com/newrocketinc/service-portal-docs)
+- [Platform Innovation - Guidelines](https://sc.service-now.com/snds?state=design-guidelines&sys_id=5212a76b130303402ea1b2566144b00e&design=true)
+- [Platform Innovation - Widgets](https://sc.service-now.com/snds?state=featured-widgets&featured=true)
+- [Platform Innovation - Components](https://sc.service-now.com/snds?state=featured-components&unit=true)- [Platform Innovation - Examples](https://sc.service-now.com/snds?state=featured-applications&app=true)
+- [Platform Innovation - Examples](https://sc.service-now.com/snds?state=featured-applications&app=true)
 - [Platform-experience / Service Portal Best Practice](https://github.com/platform-experience/serviceportal-best-practice)
 - [Platform-experience / Service Portal Widget Library](https://github.com/platform-experience/serviceportal-widget-library)
 - [Platform-experience / Service Portal Component Library](https://github.com/platform-experience/serviceportal-components)
