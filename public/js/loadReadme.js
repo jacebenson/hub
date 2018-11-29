@@ -3,7 +3,7 @@ var loadReadme = function () {
     var d = newDate.toISOString();
     console.log(d + ' - Loading ./public/README.md');
     $.ajax({
-        url: 'README.md?datetime=' + d
+        url: 'https://raw.githubusercontent.com/jacebenson/hub/master/README.md?datetime=' + d
     }).done(function (data) {
         $('#content').html(marked(data))
     })
