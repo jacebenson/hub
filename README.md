@@ -152,3 +152,4 @@
 - [ServicenowHelper to help track logs](https://github.com/OlivierBoucher/ServiceNowHelper)
 - [Script Documenter](https://github.com/jmbauguess/ServiceNowScriptDocumenter)
 - [SNGuru Integration Utilies](http://www.fryo.com/)
+- [CICD Tool](https://github.com/bmoers/sn-cicd)
