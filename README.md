@@ -168,13 +168,23 @@
 - [SchoolHub](https://vimeo.com/96734925) - Winner - App to structure the interaction between teachers (give assigments and grades), faculty (biographies, tracking attendance), parents (check the grades, fill out all kinds of forms — absence, dietary, holiday requests) and students (survey teachers, get assignments)
 
 ### 2015
-- [Disaster Relief App](https://youtu.be/Kpgqp1otikY?t=54) - Winner - ...
+
+[Post](https://community.servicenow.com/community?id=community_blog&sys_id=0a3daae5dbd0dbc01dcaf3231f9619f9)
+
+- [FEMA Victim Assistance](https://youtu.be/Kpgqp1otikY?t=54) - First -  ServiceNow Saving Lives. It will be something very special.
+- Cinema food ordering - Finalist - app that would allow movie audience to scan a QR code on their seat, complete and submit an order and have it delivered to their seat.
+- C'est Ne Paas (Robot) - Nuclear Disaster as a Service - This application would enable disaster recovery teams to send a robot into a disaster area and have it execute a task.
+- Social networking management - Managing posts to Twitter
+- On-call scheduling - Finalist - No Details
 
 ### 2016 
 - [Happiness Service](https://www.linium.com/research/news-updates/vote-team-smiles-to-win-servicenow-knowledge16-hackathon) | innovation - app that brings together kids awaiting organ transplants and people who want to grant their wish and donate money. - LifeNow - platform - app for employee health tracking with wearables, and gamification for challenges and points redemption for fitness products 
 - CreatorDoc - business - app that automates document creation and management directly in ServiceNow 
 
 ### 2017
+
+[Post](https://community.servicenow.com/community?id=community_blog&sys_id=193daae5dbd0dbc01dcaf3231f96193d)
+
 - [GreenLight](https://thewhitespace.io/blog/knowledge17-hackathon-greenlight/) - business - Presented a visualization of the carbon footprint of an enterprise. This functional visualization also allows users to actually manage and alter working elements and affect the energy consumption rates of the customer using it.
 - [LUDI - Voice Controlled](https://github.com/CloudPires/LUDI) - innovation - a voice integration application function into ServiceNow using the native voice recognition that ships as standard with the Google Chrome browser.
 - GiveNow - (social good) - Enables companies to connect their employees with opportunities to volunteer in their communities 
