@@ -184,7 +184,8 @@
 
 [Post](https://community.servicenow.com/community?id=community_blog&sys_id=26ac6625dbd0dbc01dcaf3231f96191d)
 
-- [Happiness Service](https://www.linium.com/research/news-updates/vote-team-smiles-to-win-servicenow-knowledge16-hackathon) | innovation - app that brings together kids awaiting organ transplants and people who want to grant their wish and donate money. - [LifeNow](https://www.youtube.com/watch?v=4MbyvYW_bvk&feature=youtu.be) - platform - app for employee health tracking with wearables, and gamification for challenges and points redemption for fitness products 
+- [Happiness Service](https://www.linium.com/research/news-updates/vote-team-smiles-to-win-servicenow-knowledge16-hackathon) | innovation - app that brings together kids awaiting organ transplants and people who want to grant their wish and donate money. 
+- [LifeNow](https://www.youtube.com/watch?v=4MbyvYW_bvk&feature=youtu.be) - platform - app for employee health tracking with wearables, and gamification for challenges and points redemption for fitness products 
 - [Create Doc](https://www.youtube.com/watch?v=jP99ityPijU&feature=youtu.be) - business - app that automates document creation and management directly in ServiceNow 
 
 ### 2017
