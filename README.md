@@ -159,27 +159,33 @@
 - [How to win a hackathon](https://community.servicenow.com/community?id=community_blog&sys_id=c15d2629dbd0dbc01dcaf3231f961987)
 
 ### 2013
-- [TableNOW](https://web.archive.org/web/20130831022442/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-check-out-finalist-teams-apps) - Finalist - a restaurant reservation application that finds nearby restaurants and displays their locations, menus, and availability. And processes reservations, of course.
-- [CasiNOW](https://web.archive.org/web/20130831022442/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-check-out-finalist-teams-apps) - Finalist - a blackjack gambling web site that lets users buy coins for play, interact with one another, read rules and FAQs, report issues, and submit questions.
-- [PictionNOW](https://web.archive.org/web/20130831022442/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-check-out-finalist-teams-apps) - Finalist - a variant on the popular party game "Pictionary" that replaces that game's manual drawing tools with an electronic tablet. The pair used HTML5 to add a "canvas element" to the ServiceNow Content Management System (CMS), and wrote driver software to link the tablet with the ServiceNow platform.
-- [KickITnow](https://web.archive.org/web/20130831042727/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-and-winner-is%E2%80%A6-kickit) - Winner - a kind-of "corporate Kickstarter" for incubating projects within an enterprise
+
+[Post](https://web.archive.org/web/20130831022442/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-check-out-finalist-teams-apps)
+
+- TableNOW - Finalist - a restaurant reservation application that finds nearby restaurants and displays their locations, menus, and availability. And processes reservations, of course.
+- CasiNOW - Finalist - a blackjack gambling web site that lets users buy coins for play, interact with one another, read rules and FAQs, report issues, and submit questions.
+- PictionNOW - Finalist - a variant on the popular party game "Pictionary" that replaces that game's manual drawing tools with an electronic tablet. The pair used HTML5 to add a "canvas element" to the ServiceNow Content Management System (CMS), and wrote driver software to link the tablet with the ServiceNow platform.
+- [KickITnow (video)](https://youtu.be/NSWwunAHhjA) - Winner - a kind-of "corporate Kickstarter" for incubating projects within an enterprise
 
 ### 2014 
-- [SchoolHub](https://vimeo.com/96734925) - Winner - App to structure the interaction between teachers (give assigments and grades), faculty (biographies, tracking attendance), parents (check the grades, fill out all kinds of forms — absence, dietary, holiday requests) and students (survey teachers, get assignments)
+- [SchoolHub (video)](https://vimeo.com/96734925) - Winner - App to structure the interaction between teachers (give assigments and grades), faculty (biographies, tracking attendance), parents (check the grades, fill out all kinds of forms — absence, dietary, holiday requests) and students (survey teachers, get assignments)
 
 ### 2015
 
 [Post](https://community.servicenow.com/community?id=community_blog&sys_id=0a3daae5dbd0dbc01dcaf3231f9619f9)
 
-- [FEMA Victim Assistance](https://youtu.be/Kpgqp1otikY?t=54) - First -  ServiceNow Saving Lives. It will be something very special.
+- [FEMA Victim Assistance (cube talk video)](https://youtu.be/Kpgqp1otikY?t=54) - First -  ServiceNow Saving Lives. It will be something very special.
 - Cinema food ordering - Finalist - app that would allow movie audience to scan a QR code on their seat, complete and submit an order and have it delivered to their seat.
 - C'est Ne Paas (Robot) - Nuclear Disaster as a Service - This application would enable disaster recovery teams to send a robot into a disaster area and have it execute a task.
 - Social networking management - Managing posts to Twitter
 - On-call scheduling - Finalist - No Details
 
 ### 2016 
-- [Happiness Service](https://www.linium.com/research/news-updates/vote-team-smiles-to-win-servicenow-knowledge16-hackathon) | innovation - app that brings together kids awaiting organ transplants and people who want to grant their wish and donate money. - LifeNow - platform - app for employee health tracking with wearables, and gamification for challenges and points redemption for fitness products 
-- CreatorDoc - business - app that automates document creation and management directly in ServiceNow 
+
+[Post](https://community.servicenow.com/community?id=community_blog&sys_id=26ac6625dbd0dbc01dcaf3231f96191d)
+
+- [Happiness Service](https://www.linium.com/research/news-updates/vote-team-smiles-to-win-servicenow-knowledge16-hackathon) | innovation - app that brings together kids awaiting organ transplants and people who want to grant their wish and donate money. - [LifeNow](https://www.youtube.com/watch?v=4MbyvYW_bvk&feature=youtu.be) - platform - app for employee health tracking with wearables, and gamification for challenges and points redemption for fitness products 
+- [Create Doc](https://www.youtube.com/watch?v=jP99ityPijU&feature=youtu.be) - business - app that automates document creation and management directly in ServiceNow 
 
 ### 2017
 
@@ -190,6 +196,9 @@
 - GiveNow - (social good) - Enables companies to connect their employees with opportunities to volunteer in their communities 
 
 ### 2018
+
+[Post](https://community.servicenow.com/community?id=community_blog&sys_id=2213cba6dbbd13002b6dfb651f9619b1)
+
 - [KSafeNow - Student Tracker](https://www.youtube.com/watch?v=CkzSssZCJTo) - social good - ... 
 - NeutreNow - business - App NeutreNow to incentive healthy behavior (scroll down for full review). Tracks calory intake and calories burnt 
 - [Team Vocalize](https://www.apnews.com/13a8fbf57e3500578146b42e597f40a0) - innovation - Sentiment analyses of support conversations. Based on quality of sentiment metrics, you can assign actions and tasks to prioritize follow up on conversations. 
