@@ -158,20 +158,28 @@
 
 - [How to win a hackathon](https://community.servicenow.com/community?id=community_blog&sys_id=c15d2629dbd0dbc01dcaf3231f961987)
 
-| Year | App | Winning Category | Description |
-| ---- | --- | ---------------- | ----------- |
-| 2013 | [TableNOW](https://web.archive.org/web/20130831022442/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-check-out-finalist-teams-apps) | Finalist | a restaurant reservation application that finds nearby restaurants and displays their locations, menus, and availability. And processes reservations, of course. |
-| 2013 | [CasiNOW](https://web.archive.org/web/20130831022442/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-check-out-finalist-teams-apps) | Finalist | a blackjack gambling web site that lets users buy coins for play, interact with one another, read rules and FAQs, report issues, and submit questions. |
-| 2013 | [PictionNOW](https://web.archive.org/web/20130831022442/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-check-out-finalist-teams-apps) | Finalist | a variant on the popular party game "Pictionary" that replaces that game's manual drawing tools with an electronic tablet. The pair used HTML5 to add a "canvas element" to the ServiceNow Content Management System (CMS), and wrote driver software to link the tablet with the ServiceNow platform.
-| 2013 | [KickITnow](https://web.archive.org/web/20130831042727/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-and-winner-is%E2%80%A6-kickit) | Winner | a kind-of "corporate Kickstarter" for incubating projects within an enterprise |
-| 2014 | [SchoolHub](https://vimeo.com/96734925) | Winner | App to structure the interaction between teachers (give assigments and grades), faculty (biographies, tracking attendance), parents (check the grades, fill out all kinds of forms — absence, dietary, holiday requests) and students (survey teachers, get assignments)
-| 2015 | [Disaster Relief App](https://youtu.be/Kpgqp1otikY?t=54) | Winner | ... |
-| 2016 | Happiness Service | innovation | app that brings together kids awaiting organ transplants and people who want to grant their wish and donate money. |
-| 2016 | LifeNow | platform  | app for employee health tracking with wearables, and gamification for challenges and points redemption for fitness products |
-| 2016 | CreatorDoc | business | app that automates document creation and management directly in ServiceNow |
-| 2017 | GreenLight | business | Presented a visualization of the carbon footprint of an enterprise. This functional visualization also allows users to actually manage and alter working elements and affect the energy consumption rates of the customer using it. |
-| 2017 | [LUDI - Voice Controlled](https://github.com/CloudPires/LUDI) | innovation | a voice integration application function into ServiceNow using the native voice recognition that ships as standard with the Google Chrome browser.
-| 2017 | ABC Social | (social good) | Allowed users to automatically find charitable events that they wanted to participate in inside their local region and use tools to automatically sign up for it and make a donation.
-| 2018 | [KSafeNow - Student Tracker](https://www.youtube.com/watch?v=CkzSssZCJTo) | ? | ... |
-| 2018 | NeutreNow | ? | App NeutreNow to incentive healthy behavior (scroll down for full review). Tracks calory intake and calories burnt |
-| 2018 | [Team Vocalize](https://www.apnews.com/13a8fbf57e3500578146b42e597f40a0) | ? | Sentiment analyses of support conversations. Based on quality of sentiment metrics, you can assign actions and tasks to prioritize follow up on conversations. |
+### 2013
+- [TableNOW](https://web.archive.org/web/20130831022442/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-check-out-finalist-teams-apps) - Finalist - a restaurant reservation application that finds nearby restaurants and displays their locations, menus, and availability. And processes reservations, of course. |
+- [CasiNOW](https://web.archive.org/web/20130831022442/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-check-out-finalist-teams-apps) - Finalist - a blackjack gambling web site that lets users buy coins for play, interact with one another, read rules and FAQs, report issues, and submit questions. |
+- [PictionNOW](https://web.archive.org/web/20130831022442/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-check-out-finalist-teams-apps) - Finalist - a variant on the popular party game "Pictionary" that replaces that game's manual drawing tools with an electronic tablet. The pair used HTML5 to add a "canvas element" to the ServiceNow Content Management System (CMS), and wrote driver software to link the tablet with the ServiceNow platform.
+- [KickITnow](https://web.archive.org/web/20130831042727/http://community.servicenow.com/blog/allanleinwand/createnow-hackathon-and-winner-is%E2%80%A6-kickit) - Winner - a kind-of "corporate Kickstarter" for incubating projects within an enterprise |
+
+### 2014 
+- [SchoolHub](https://vimeo.com/96734925) - Winner - App to structure the interaction between teachers (give assigments and grades), faculty (biographies, tracking attendance), parents (check the grades, fill out all kinds of forms — absence, dietary, holiday requests) and students (survey teachers, get assignments)
+
+### 2015
+- [Disaster Relief App](https://youtu.be/Kpgqp1otikY?t=54) - Winner - ...
+
+### 2016 
+- [Happiness Service](https://www.linium.com/research/news-updates/vote-team-smiles-to-win-servicenow-knowledge16-hackathon) | innovation - app that brings together kids awaiting organ transplants and people who want to grant their wish and donate money. - LifeNow - platform - app for employee health tracking with wearables, and gamification for challenges and points redemption for fitness products 
+- CreatorDoc - business - app that automates document creation and management directly in ServiceNow 
+
+### 2017
+- [GreenLight](https://thewhitespace.io/blog/knowledge17-hackathon-greenlight/) - business - Presented a visualization of the carbon footprint of an enterprise. This functional visualization also allows users to actually manage and alter working elements and affect the energy consumption rates of the customer using it.
+- [LUDI - Voice Controlled](https://github.com/CloudPires/LUDI) - innovation - a voice integration application function into ServiceNow using the native voice recognition that ships as standard with the Google Chrome browser.
+- GiveNow - (social good) - Enables companies to connect their employees with opportunities to volunteer in their communities 
+
+### 2018
+- [KSafeNow - Student Tracker](https://www.youtube.com/watch?v=CkzSssZCJTo) - ? - ... 
+- NeutreNow - ? | App NeutreNow to incentive healthy behavior (scroll down for full review). Tracks calory intake and calories burnt 
+- [Team Vocalize](https://www.apnews.com/13a8fbf57e3500578146b42e597f40a0) - ? - Sentiment analyses of support conversations. Based on quality of sentiment metrics, you can assign actions and tasks to prioritize follow up on conversations. 
