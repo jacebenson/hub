@@ -134,6 +134,19 @@
 
 ## Tools
 
+### Browser Extensions
+
+| Name                     | Source | Chrome | Firefox |
+| ------------------------ | ------ | ------ | ------- |
+| ServiceNow tool belt     | [Github](https://github.com/macmorning/snowtools-webext) | [Chrome](https://chrome.google.com/webstore/detail/servicenow-tool-belt/jflcifhpkilfaomlnikfaaccmpidkmln) | [Firefox](https://addons.mozilla.org/fr/firefox/addon/snow-tool-belt/) |
+| ServiceNow Utils         | [Github](https://github.com/arnoudkooi/ServiceNow-Utils) | [Chrome](https://chrome.google.com/webstore/detail/sn-utils/jgaodbdddndbaijmcljdbglhpdhnjobg) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/servicenow-utils2) |
+| ServiceNow Utils on Prem |        | | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sn-utils-onprem/) |
+| ServiceNow Linker        |        | [Chrome](https://chrome.google.com/webstore/detail/servicenow-linker/bkmlgfooncadljmlgelkkfgpjlbhghed) | |
+| ServiceNow Framerizer    |        | [Chrome](https://chrome.google.com/webstore/detail/servicenow-framerizer/aigcknhbichbpcfdbhhoelohpdnjlfbb) | |
+| ServiceNow Swisstool     |        | [Chrome](https://chrome.google.com/webstore/detail/swissnow-servicenow-toolb/jneeammdkdmlfgidcacmjmbijdmkdbjm) | |
+| ServiceNow lookup        |        | [Chrome](https://chrome.google.com/webstore/detail/servicenow-lookup/lalhboihpjkhmcalhjlkehfnphpjebma) | |
+| ServiceNow Helper        |        | | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/servicenow-helper/) |
+
 ### File Syncr's
 
 - [Filesync](https://github.com/dynamicdan/sn-filesync)
@@ -152,4 +165,3 @@
 - [ServicenowHelper to help track logs](https://github.com/OlivierBoucher/ServiceNowHelper)
 - [Script Documenter](https://github.com/jmbauguess/ServiceNowScriptDocumenter)
 - [SNGuru Integration Utilies](http://www.fryo.com/)
-- [CICD Tool](https://github.com/bmoers/sn-cicd)
